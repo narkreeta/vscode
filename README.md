@@ -72,7 +72,7 @@ Docker / the Codespace should have at least **4 Cores and 6 GB of RAM (8 GB reco
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-## License
+## Licenses
 
 Copyright (c) Microsoft Corporation. All rights reserved.
 
